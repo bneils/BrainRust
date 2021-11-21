@@ -1,6 +1,6 @@
 To run a Brainfuck program,
 
-./brainfuck file.bf
+`$ ./brainfuck file.bf`
 
 You can pass multiple file paths to run more than one program.
 
